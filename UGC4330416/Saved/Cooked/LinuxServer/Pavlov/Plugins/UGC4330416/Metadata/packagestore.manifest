@@ -1,0 +1,26 @@
+{
+	"Files": [
+		{
+			"Path": "Pavlov/Plugins/UGC4330416/Content/GL_SnipersFFA.uasset",
+			"ChunkId": "06e54ca32136791900000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC4330416/Content/definition.uasset",
+			"ChunkId": "7538b6e70c8054db00000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/UGC4330416/GL_SnipersFFA",
+			"ExportBundleChunkIds": [
+				"06e54ca32136791900000001"
+			]
+		},
+		{
+			"Name": "/UGC4330416/definition",
+			"ExportBundleChunkIds": [
+				"7538b6e70c8054db00000001"
+			]
+		}
+	]
+}
