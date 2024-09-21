@@ -1,0 +1,36 @@
+{
+	"Files": [
+		{
+			"Path": "Pavlov/Plugins/UGC4330012/Content/PersonalizedSkinPlayerProxy.uasset",
+			"ChunkId": "276e605a80bace8500000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC4330012/Content/definition.uasset",
+			"ChunkId": "013e5d778acf39b300000001"
+		},
+		{
+			"Path": "Pavlov/Plugins/UGC4330012/Content/PersonalizedSkinsInit.uasset",
+			"ChunkId": "54c7937d7789ce0b00000001"
+		}
+	],
+	"Packages": [
+		{
+			"Name": "/UGC4330012/PersonalizedSkinPlayerProxy",
+			"ExportBundleChunkIds": [
+				"276e605a80bace8500000001"
+			]
+		},
+		{
+			"Name": "/UGC4330012/definition",
+			"ExportBundleChunkIds": [
+				"013e5d778acf39b300000001"
+			]
+		},
+		{
+			"Name": "/UGC4330012/PersonalizedSkinsInit",
+			"ExportBundleChunkIds": [
+				"54c7937d7789ce0b00000001"
+			]
+		}
+	]
+}
